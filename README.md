@@ -1,6 +1,12 @@
 <h1 align="center">Hi there 👋 I'm Fabio Silveira</h1>
 
 <p align="center">
+  <a href="https://github.com/fabioesilveira">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=900&lines=Creative+Full-Stack+Engineer;UI%2FUX+Focused+%E2%80%A2+React+%2B+TypeScript+%2B+Next.js;Building+Fast+Fuel+%F0%9F%8D%94%F0%9F%9A%97" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
 🚀 Front-End & Full-Stack Developer <br/>
 🎯 Passionate about UI/UX and scalable web apps <br/>
 📍 San Jose, California
