@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/fabioesilveira">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=900&lines=Creative+Full-Stack+Engineer;UI%2FUX+Focused+%E2%80%A2+React+%2B+TypeScript+%2B+Next.js;Building+Fast+Fuel+%F0%9F%8D%94%F0%9F%9A%97" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&center=true&vCenter=true&width=900&lines=Creative+Full-Stack+Engineer;UI%2FUX+Focused+%E2%80%A2+React+%2B+TypeScript+%2B+Next.js;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,14 +19,14 @@
 - 🎨 Strong focus on **mobile-first UI/UX**
 - ⚛️ Specialized in **React + TypeScript + Next.js**
 - 🌎 Open to remote opportunities, Bay Area onsite roles, or relocation.
-- 🎓 Computer Science student at WGU
+- 🎓 B.S. in Computer Science (in progress) at WGU | UC Berkeley Full-Stack Coding Bootcamp graduate
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,reactrouter,materialui,tailwind,nodejs,express,mysql,mongodb,git,github,npm,vercel,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,materialui,tailwind,nodejs,express,mysql,mongodb,git,github,npm,vercel,vscode,postman,figma" />
 </p>
 
 ---
