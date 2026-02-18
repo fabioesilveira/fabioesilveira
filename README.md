@@ -9,7 +9,7 @@
 <p align="center">
 🚀 Front-End & Full-Stack Developer <br/>
 🎯 Passionate about UI/UX and scalable web apps <br/>
-📍 San Jose, California
+- 📧 Email: fabio.ed.silveira@gmail.com
 </p>
 
 ---
@@ -24,48 +24,40 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Tech I Use
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,materialui,tailwind" />
+</p>
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <!-- Backend / DB -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+</p>
 
-### ☁️ Tools & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge)
+<p align="center">
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
 
----
+<!-- Extra (not in skillicons) -->
+<p align="center">
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-0d47a1?style=for-the-badge" />
+  <img alt="Thunder Client" src="https://img.shields.io/badge/Thunder%20Client-6C2BD9?style=for-the-badge" />
+</p>
 
-## 🔥 Featured Project
-
-### 🚗 Fast Fuel
-
-> Full-stack fast-food ordering platform with real-time admin panel
-
-✨ Highlights:
-
-- 🛒 Guest & authenticated checkout  
-- 🔐 Role-based admin protection  
-- 📱 Mobile-first responsive design  
-- ⚡ Silent auto-refresh admin dashboard  
-- 🎯 Portfolio-grade architecture  
-
-👉 **Repo:** (coloca seu link aqui)
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: **your-email@email.com**
 - 💼 LinkedIn: **your-linkedin**
 - 🌐 Portfolio: **(se tiver)**
 
