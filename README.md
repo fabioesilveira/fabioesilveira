@@ -10,12 +10,11 @@
 - Front-End & Full-Stack Developer <br/>
 - Passionate about UI/UX and scalable web apps <br/>
 - 📧 Email: fabio.ed.silveira@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/fabio-silveira-694b35341/
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🎨 Strong focus on **mobile-first UI/UX**
 - ⚛️ Specialized in **React + TypeScript + Next.js**
@@ -24,21 +23,14 @@
 
 ---
 
-## 🧩 Tech I Use
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,materialui,tailwind,nodejs,express,mysql,mongodb,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,reactrouter,materialui,tailwind,nodejs,express,mysql,mongodb,git,github,npm,vercel,vscode,postman,figma" />
 </p>
 
 ---
 
-## 📫 Contact Me
-
-- 💼 LinkedIn: **your-linkedin**
-- 🌐 Portfolio: **(se tiver)**
-
----
-
 <p align="center">
-⭐ Always building. Always improving.
+  Always building. Always improving.
 </p>
