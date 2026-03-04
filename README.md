@@ -17,7 +17,6 @@
 ## About Me
 
 - ⚛️ Specialized in **React + TypeScript + Next.js**
-- 🌎 Open to remote opportunities, Bay Area onsite roles, or relocation.
 - 🎓 B.S. in Computer Science (in progress) at WGU | UC Berkeley Full-Stack Coding Bootcamp graduate
 
 ---
