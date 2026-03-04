@@ -7,8 +7,6 @@
 </p>
 
 <p align="center">
-- Front-End & Full-Stack Developer <br/>
-- Passionate about UI/UX design and scalable web applications <br/>
 - 📧 Email: fabio.ed.silveira@gmail.com
 </p>
 
